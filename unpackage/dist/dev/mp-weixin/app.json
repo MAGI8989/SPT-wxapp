@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "点餐小程序",
+    "navigationBarBackgroundColor": "#202326",
+    "backgroundColor": "#202326"
+  },
+  "usingComponents": {}
+}

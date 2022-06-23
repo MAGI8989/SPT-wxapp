@@ -1,0 +1,5 @@
+
+#styles{background-color: #202326;width: 20vw;height: 100vh;position: absolute;float: left;}
+.li{list-style: none;}
+#dishes{}
+
