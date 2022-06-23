@@ -6,7 +6,7 @@
 			<div id="styles">
 				<!-- 侧边菜品分类 -->
 				<tui-list-view>
-					<div v-for="item in styles" :key="item.id" style="color: #fafafa;background-color: #202326;text-align: center;margin-top: 100rpx;">
+					<div v-for="item in styles" :key="item.id" style="color: #fafafa;background-color: #202326;text-align: center;>
 						<tui-list-cell :hover="true" :arrow="false">{{item.text}}</tui-list-cell>
 					</div>
 				</tui-list-view>
